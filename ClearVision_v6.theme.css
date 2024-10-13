@@ -17,7 +17,7 @@
 :root {
   /* ACCENT COLORS */
   --main-color: #E49B0F; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
-  --hover-color: #DFFF00; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+  --hover-color: #E49B0F; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
   --url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/
@@ -41,7 +41,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://cdn.donmai.us/sample/52/a8/__nanami_nanami_pulse_and_nanami_pulse_punishing_gray_raven_drawn_by_shi_ling_yu__sample-52a807953b21ede901b3f725e955a494.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fpgr-cn-s-rank-lightning-tank-nanami-%25E8%258A%2592%25E6%2598%259F%25E4%25B9%258B%25E8%25BF%25B9-v0-1z1k60z00xmd1.png%3Fauto%3Dwebp%26s%3D04df589a96df245e5dab5bdb0a336d7e2fb33e48); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
@@ -55,7 +55,7 @@
   --background-blur: 0px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-icon: url(https://static.miraheze.org/pgrwiki/2/28/Dialogue-Pulse-Chibi-Icon.png); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
   --home-size: 40px; /* home button icon size [default: 40px] */
 
