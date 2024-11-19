@@ -55,7 +55,7 @@
   --background-blur: 1px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://static.miraheze.org/pgrwiki/2/28/Dialogue-Pulse-Chibi-Icon.png); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-icon: url(https://cdn.discordapp.com/attachments/969969999525605398/1308303314412245012/7f083445d3feb692099b4bad5d9c7d70.png?ex=673d73e9&is=673c2269&hm=7217d99c92eaf6d5dba98334164bb7fce752bad2c607fbdf1c4375c041d1088d&); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
   --home-size: 40px; /* home button icon size [default: 40px] */
 
