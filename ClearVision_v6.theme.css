@@ -55,7 +55,7 @@
   --background-blur: 1px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://cdn.discordapp.com/attachments/969969999525605398/1308303644218757262/3670cf84a083c15097b4c9bd49084f4f.png?ex=673d7437&is=673c22b7&hm=dc549855a9c7532b8b48422f389d23c31a1b086f5640d6c4f040cea5007f6065&); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-icon: url(https://static.wikia.nocookie.net/path-to-nowhere/images/4/4c/Eternal_Nightmare_Sticker_15.png/revision/latest?cb=20240308051326); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
   --home-size: 40px; /* home button icon size [default: 40px] */
 
