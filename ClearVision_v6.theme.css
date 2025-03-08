@@ -16,8 +16,8 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #483248; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
-  --hover-color: #5D3FD3; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+  --main-color: #0047AB; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+  --hover-color: #D70040; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
   --url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/
@@ -41,7 +41,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.2); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://cdn.donmai.us/original/2b/e8/__langley_path_to_nowhere_drawn_by_llmia4__2be881be0256bf3147856b348a239b24.png); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://cdn.discordapp.com/attachments/969969999525605398/1347940306871390238/Screenshot_2025-03-08_194748.png?ex=67cda6bc&is=67cc553c&hm=6abb0e277b5cb3a677014921beb66b8a7b7131d53125952bdaae1124264d2ea2&); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
